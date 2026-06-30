@@ -1,1 +1,1 @@
-# Quarter-Car-Suspension-dynamics--adding-a-PID-controller
+Quarter-Car Suspension Dynamics with PID Active Control
